@@ -1,10 +1,10 @@
-# Title (replace with your title)
+# Email matching regular expressions
 
 Regex, or 'regular expression', is a sequence of characters that specifies a search pattern within text. These are typically used by searching algorithms to 'find' or 'find and replace' text. You will typically find regular expressions in search engines used to narrow down searches in a more timely fashion.
 
 ## Summary
 
-This document will explain the basics of regex. With this knowledge, you can continue research and learn about the intricacies of regular expressions. 
+This document will explain the basics of email matching regular expressions. With this knowledge, you can continue research and learn about the intricacies of regular expressions. 
 
 Email matching regular expression example: `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
 
